@@ -1,2 +1,3 @@
-const connection = "192.168.1.290, sa, sunfiled, 3307"
+
+const connection = "192.168.1.100, root, biscoito, 3800"
 
